@@ -33,6 +33,10 @@ Para utilizar:
   - Inicie o servidor.
   - Teste as requisições no Insomnia. Essas requisições podem ser importadas no Insomnia a partir do arquivo ```API-Loja.json```.
   
+# Mais informações
+
+Para acessar a documentação Swagger e obter a especificação de cada endpoint, [clique aqui](https://app.swaggerhub.com/apis-docs/charlanmttr/API-Loja/1.0.0#/).
+
 # Dúvidas
   
 Se necessário, podem entrar em contato com nós:
